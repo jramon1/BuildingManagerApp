@@ -1,0 +1,11 @@
+reference,firstname,lastname,home_phone_number,mobile_phone_number,email,address
+1,Julio,Dupont,0123456789,0623456789,h.dupont@gmail.com,10 Rue La bruyère
+2,Jack,Durand,0123336789,0663456789,jdurand@gmail.com,40 Rue René Clair
+3,Tony,Dupont,0123456789,0666666666,t.dupont@gmail.com,12 Rue La bruyère
+4,Junior,Durand,0123336789,0677777777,juniordurand@gmail.com,41 Rue René Clair
+2,jdurand@gmail.com,0123336789,0663456789,Jack,Durand,40 Rue René Clair
+2,Durand,Jack,0663456789,Jack,Durand,40 Rue René Clair
+2,Durand,Jack,0663456789,Jack,Durand,40 Rue René Clair
+2,Durand,Jack,0663456789,Jack,Durand,40 Rue René Clair
+2,Durand,Jack,0663456789,Jack,Durand,40 Rue René Clair
+2,Durand,Jack,0663456789,Jack,Durand,40 Rue René Clair
